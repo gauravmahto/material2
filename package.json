@@ -121,7 +121,7 @@
     "minimist": "^1.2.0",
     "mock-fs": "^4.7.0",
     "moment": "^2.18.1",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "parse5": "^5.0.0",
     "protractor": "^5.4.1",
     "resolve-bin": "^0.4.0",
